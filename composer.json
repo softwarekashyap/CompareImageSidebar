@@ -1,0 +1,22 @@
+{
+    "name": "kashyap/module-compareimagesidebar",
+    "description": "Kashyap Compare Image Sidebar",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Mage2Gen",
+            "email": "info@mage2gen.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kashyap\\CompareImageSidebar\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
