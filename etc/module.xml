@@ -1,4 +1,11 @@
 <?xml version="1.0" ?>
+<!--
+/**
+ * @author Kashyap Team
+ * @copyright Copyright (c) 2018 Kashyap (http://kashyapsoftware.com/)
+ * @package Kashyap_CompareImageSidebar
+*/
+-->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
 	<module name="Kashyap_CompareImageSidebar" setup_version="1.0.0"/>
 </config>

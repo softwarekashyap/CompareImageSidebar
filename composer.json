@@ -1,16 +1,19 @@
 {
     "name": "kashyap/module-compareimagesidebar",
-    "description": "Kashyap Compare Image Sidebar",
-    "type": "magento2-module",
-    "license": "proprietary",
-    "authors": [
+    "description": "show product images in sidebar compare list",
+    "license": "Commercial",
+    "minimum-stability": "stable",
+    "require": {
+    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0"
+  },
+  "authors":[
         {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
+            "name":"Kashyap Software",
+            "email":"softwarekashyap@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+  "type": "magento2-module",
+  "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Kashyap\\CompareImageSidebar\\": ""
